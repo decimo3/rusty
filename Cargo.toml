@@ -1,0 +1,16 @@
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[package]
+name = "rusty"
+version = "0.1.0"
+publish = false
+edition = "2021"
+rust-version = "1.62.1"
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE.md"
+repository = "https://github.com/rust-lang/cargo/"
+authors = ["decimo3 <ruanfaustinocamello@protonmail.com>"]
+description = "A short description of my package"
+
+[dependencies]

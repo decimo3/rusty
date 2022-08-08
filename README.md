@@ -1,0 +1,3 @@
+# rusty project
+
+This project 
